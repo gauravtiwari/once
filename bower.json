@@ -1,0 +1,37 @@
+{
+  "name": "once",
+  "main": "once.js",
+  "version": "1.3.2",
+  "homepage": "git://github.com/isaacs/once",
+  "authors": [
+    "Isaac Z. Schlueter <i@izs.me> (http://blog.izs.me/)"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/isaacs/once"
+  },
+  "dependencies": {
+    "wrappy": "1"
+  },
+  "devDependencies": {
+    "tap": "^1.2.0"
+  },
+  "description": "Run a function exactly one time",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "once",
+    "function",
+    "one",
+    "single"
+  ],
+  "license": "ISC",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
